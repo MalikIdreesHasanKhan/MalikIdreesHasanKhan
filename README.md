@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @MalikIdreesHasanKhan
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning TensorFlow and Keras
 
+
+![](https://activity-graph.herokuapp.com/graph?username=MalikIdreesHasanKhan&theme=redical)
+
+<br>
+
+<br>
 
 <!---
 MalikIdreesHasanKhan/MalikIdreesHasanKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
